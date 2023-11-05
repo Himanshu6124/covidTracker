@@ -10,7 +10,8 @@ The Android Crypto Tracker App is a mobile application that allows users to trac
 - Up-to-date data retrieved from a reliable data source.
 
 ## Screenshots
-<img src="https://github.com/Himanshu6124/covidTracker/tree/master/screenshots/screenshot1.jpg" alt="Error" style="width:200px;"/> <img src="https://github.com/Himanshu6124/covidTracker/tree/master/screenshots/screenshot2.jpg" alt="Error" style="width:200px;"/> <img src="https://github.com/Himanshu6124/covidTracker/tree/master/screenshots/screenshot3.jpg" alt="Error" style="width:200px;"/>
+![App Screenshot 1](screenshots/screenshot1.jpg)
+![App Screenshot 2](screenshots/screenshot2.jpg)
 
 ## How to Use
 1. Clone the repository to your local machine:
